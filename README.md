@@ -3,7 +3,7 @@ Final mapping project for the New Maps Plus Master's Degree program.
 
 Nascent Project Topic Ideas:
 
-HURRICANE TRACKING MAP
+**HURRICANE TRACKING MAP**
 
 From ---> https://adventuresinmapping.com/2016/10/17/firefly-cartography/
 
@@ -15,10 +15,10 @@ Bold quotation above = Mapping project idea. Show hurricane path (Michael?) with
 
 Similar to Tracking Harvey map? ---> https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html
 
-INTERACTIVE RUBY-THROATED HUMMINGBIRD MAP
+**INTERACTIVE RUBY-THROATED HUMMINGBIRD MAP**
 
 Firefly map idea ---> Dynamic, interactive hummingbird migration map throughout North America (see this one for the data: http://www.hummingbirds.net/map.html).
 
-DRAG-AND-DROP GEOGRAPHY GAME
+**DRAG-AND-DROP GEOGRAPHY GAME**
 
 Geography literacy a big problem in America ... what about an interactive geography game? Remember at trivia night in Slidell ... Polish friend challenging us to name cities of certain countries in Europe. Or the shapes of National Parks, rivers, monuments, etc. Users have to drag the feature to proper geographic location, and then get a score at the end telling them how close (or not!) they came to accurately placing the features on the map.
