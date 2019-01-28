@@ -1,5 +1,5 @@
 # New Maps Plus Master's Degree Project
-Michael McNeil's final mapping project for the New Maps Plus Master's Degree program.
+Michael McNeil's final mapping project for the New Maps Plus Master's Degree program at the University of Kentucky.
 
 ## Nascent Project Topic Ideas
 
