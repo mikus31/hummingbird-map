@@ -1,7 +1,7 @@
-# nmp-masters-project-mcneil
-Final mapping project for the New Maps Plus Master's Degree program.
+# New Maps Plus Master's Degree Project
+Michael McNeil's final mapping project for the New Maps Plus Master's Degree program.
 
-Nascent Project Topic Ideas:
+## Nascent Project Topic Ideas
 
 **HURRICANE TRACKING MAP**
 
