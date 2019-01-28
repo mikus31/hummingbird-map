@@ -15,10 +15,18 @@ Quotation above = Mapping project idea. Show hurricane path (Michael?) with a mo
 
 Similar to Tracking Harvey map? ---> https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html
 
+**Focused Topic**
+
+I want to design a map that reveals a more insightful potential track of an approaching hurricane because I want to find out the extent and depth of damage in and near the predicted path in order to help the map user or audience understand better how truly destructive a hurricane can be, especially for those away from the eyewall.
+
 **INTERACTIVE RUBY-THROATED HUMMINGBIRD MAP**
 
 Firefly map idea ---> Dynamic, interactive hummingbird migration map throughout North America (see this one for the data: http://www.hummingbirds.net/map.html).
 
+**Focused Topic**
+
 **DRAG-AND-DROP GEOGRAPHY GAME**
 
 Geography literacy a big problem in America ... what about an interactive geography game? Remember at trivia night in Slidell ... Polish friend challenging us to name cities of certain countries in Europe. Or the shapes of National Parks, rivers, monuments, etc. Users have to drag the feature to proper geographic location, and then get a score at the end telling them how close (or not!) they came to accurately placing the features on the map.
+
+**Focused Topic**
