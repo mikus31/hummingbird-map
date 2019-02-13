@@ -36,6 +36,7 @@ Data from Data.gov:
 
 Relevant resources:
 
+  * [Tracking Harvey’s Destructive Path Through Texas and Louisiana](https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html)
   * [Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
   * [Hurricane shapes and sizes](https://www.popsci.com/hurricane-shape-size)
   * [Spatial patterns on satellite images](http://www.aag.org/galleries/education-files/1_patterns.pdf)
