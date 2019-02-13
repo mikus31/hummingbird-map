@@ -32,6 +32,8 @@ Data from Data.gov:
 
   * [Worldwide historical hurricane tracks from 1848 through previous hurricane season](https://catalog.data.gov/dataset/worldwide-historical-hurricane-tracks-from-1848-through-the-previous-hurricane-season)
 
+**Research**
+
 Relevant resources:
 
   * [Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
@@ -48,7 +50,7 @@ Potential repo name for this project: hummingbird-map
 
 **Focused Topic**
 
-I want to design a map that shows the yearly migration patterns of ruby-throated hummingbirds in North America because I want to find out how the pattern varies from year-to-year in order to help the map user or audience discern if variables (man-made, environmental, etc.) are affecting yearly migrations.
+The idea is to design a map that shows the yearly migration patterns of ruby-throated hummingbirds in North America in an effort to find out how the pattern varies from year-to-year in order to help the map user or audience discern if variables (man-made, environmental, etc.) are affecting yearly migrations.
 
 **Draft Description**
 
@@ -74,7 +76,7 @@ Potential repo name for this project: drag-drop-geog
 
 **Focused Topic**
 
-I want to design a map that allows users to test their geographic knowledge of the United States because I want to find out how good/poor geographic literacy is among Americans in order to help the map user or audience understand better the importance of maintaining and/or strengthening our geographic curriculum in the United States.
+The idea is to design a map that allows users to test their geographic knowledge of the United States in an effort to find out how good/poor geographic literacy is among Americans in order to help the map user or audience understand better the importance of maintaining and/or strengthening our geographic curriculum in the United States.
 
 **Draft Description**
 
