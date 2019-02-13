@@ -22,7 +22,6 @@ See the data directory for sample data from NOAA's International Best Track Arch
 Data from the National Hurricane Center:
 
   * [Best Track Data](https://www.nhc.noaa.gov/data/#hurdat)
-  * [Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
 
 Data from NOAA:
 
@@ -35,6 +34,7 @@ Data from Data.gov:
 
 Relevant resources:
 
+  * [Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
   * [Hurricane shapes and sizes](https://www.popsci.com/hurricane-shape-size)
   * [Spatial patterns on satellite images](http://www.aag.org/galleries/education-files/1_patterns.pdf)
   * [Hurricane Isaac Mapped](https://www.gislounge.com/hurricane-isaac-mapped/)
