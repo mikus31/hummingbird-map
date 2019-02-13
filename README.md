@@ -32,9 +32,7 @@ Data from Data.gov:
 
   * [Worldwide historical hurricane tracks from 1848 through previous hurricane season](https://catalog.data.gov/dataset/worldwide-historical-hurricane-tracks-from-1848-through-the-previous-hurricane-season)
 
-**Research**
-
-Relevant resources:
+**Inspirations & Ideas**
 
   * [Tracking Harvey’s Destructive Path Through Texas and Louisiana](https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html)
   * [Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
@@ -72,6 +70,10 @@ Data from Hummingbirds.net:
 Data from Journey North:
 
   * [Hummingbird, Ruby-throated (FIRST)](https://maps.journeynorth.org/map/?map=hummingbird-ruby-throated-first&year=2019)
+  
+**Inspirations & Ideas**
+
+john nelson firefly
 
 ---
 
@@ -100,3 +102,7 @@ Finally, users would be given the option to share their score with friends and f
 **The Data**
 
 data goes here
+
+**Inspirations & Ideas**
+
+  * [National Park Typeface](https://nationalparktypeface.com/Download)
