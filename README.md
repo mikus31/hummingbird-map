@@ -13,7 +13,13 @@ The idea is to design a map that reveals a more insightful potential track of an
 
 **Draft Description**
 
-description goes here
+John Nelson wrote:
+
+> The glow effect, while providing a distinct aesthetic, and perhaps hijacking some primitive cognitive wires, is a fitting example of Waldo Tobler‘s First Law of Geography: “everything is related to everything else, but near things are more related than distant things.” Or, the effect a thing has on its surroundings dissipates with distance. It’s the foundational concept of quantitative geography -and happens to be a convenient rationalization for glowing symbology.
+
+> For example, the impact that these military bases impart on their surrounding areas is quite strong on-base, and diminishes as you travel away (air and ground transportation noise, traffic impacts, employment draw to local residents, the visual impact on the land). Things rarely just end abruptly -they make a difference to their surroundings. **This is why I grate a little when I see hurricane maps with fine solid crisp one-dimensional lines sweeping out the path of the eye.**
+
+The concept behind this interactive map is to create a hurricane tracking map that more-accurately reflects the size of the storm's impact beyond the track of the eye of the storm.
 
 **The Data**
 
