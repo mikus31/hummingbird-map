@@ -11,6 +11,10 @@ Potential repo name for this project: cane-tracking-map
 
 The idea is to design a map that reveals a more insightful potential track of an approaching hurricane in an effort to find out the extent and depth of damage in and near the predicted path in order to help the map user or audience understand better how truly destructive a hurricane can be, especially for those away from the eyewall.
 
+**Draft Description**
+
+description goes here
+
 **The Data**
 
 See the data directory for sample data from NOAA's International Best Track Archive for Climate Stewardship dataset.
@@ -48,6 +52,14 @@ Firefly map idea ---> Dynamic, interactive hummingbird migration map throughout 
 
 I want to design a map that shows the yearly migration patterns of ruby-throated hummingbirds in North America because I want to find out how the pattern varies from year-to-year in order to help the map user or audience discern if variables (man-made, environmental, etc.) are affecting yearly migrations.
 
+**Draft Description**
+
+description goes here
+
+**The Data**
+
+data goes here
+
 ---
 
 **DRAG-AND-DROP GEOGRAPHY GAME**
@@ -59,3 +71,11 @@ Geography literacy a big problem in America ... what about an interactive geogra
 **Focused Topic**
 
 I want to design a map that allows users to test their geographic knowledge of the United States because I want to find out how good/poor geographic literacy is among Americans in order to help the map user or audience understand better the importance of maintaining and/or strengthening our geographic curriculum in the United States.
+
+**Draft Description**
+
+description goes here
+
+**The Data**
+
+data goes here
