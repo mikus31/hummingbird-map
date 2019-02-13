@@ -81,11 +81,17 @@ Potential repo name for this project: drag-drop-geog
 
 **Focused Topic**
 
-The idea is to design a map that allows users to test their geographic knowledge of the United States in an effort to find out how good/poor geographic literacy is among Americans in order to help the map user or audience understand better the importance of maintaining and/or strengthening our geographic curriculum in the United States.
+The idea is to design a map that allows users to test their geographic knowledge of the United States in an effort to discover the state of geographic literacy among Americans in order to help the map user or audience understand better the importance of maintaining and/or strengthening geographic curriculum in the United States.
 
 **Draft Description**
 
-description goes here
+The game would present users with a basemap of the United States of America and a set of random or categorized shapes. Users would be asked to drag-and-drop these shapes (rivers, cities, monuments, parks, etc.) where they think each is located. 
+
+For the categorized option, users could choose from a number of different thematic games. These categories could include a National Parks game or a major rivers of America game, for example.
+
+At the end of the game, users would be given a score based on how accurate each feature placed is to its actual location. This score can be calculated using the difference, in miles, between the centroids of the user-placed features and the centroids of the correct feature locations.
+
+Users would also be given a percentile at the end of each game to show where they rank among all those who have played the same game to date.
 
 **The Data**
 
