@@ -17,8 +17,8 @@ See the data directory for sample data from NOAA's International Best Track Arch
 
 Data from the National Hurricane Center:
 
-[Best Track Data](https://www.nhc.noaa.gov/data/#hurdat)
-[Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
+..*[Best Track Data](https://www.nhc.noaa.gov/data/#hurdat)
+..*[Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
 
 Data from NOAA:
 
