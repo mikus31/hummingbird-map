@@ -73,7 +73,7 @@ Data from Journey North:
   
 **Inspirations & Ideas**
 
-john nelson firefly
+  * [Iceberg Map: Part 2, Animation](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/iceberg-map-part-2-animation/)
 
 ---
 
