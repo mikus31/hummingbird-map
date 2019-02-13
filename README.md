@@ -58,7 +58,9 @@ The map will connect points of equal dates, or dates within ranges, to create hu
 
 ![hummingbird contours](/images/hbird-contours.png "Hummingbird Contours Map")
 
-After these contour lines are collected and refined, the data can be stylized and the map animated to produce a wave-like effect northward across North America. This animation can be done for each year individually, for all years collectively, or by individual months (see [John Nelson's iceberg map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/iceberg-map-part-2-animation/) for an example). Allow the user to choose the parameters by providing these options. This way of visualizing the data would, potentially, enhance the exposure of the sources and therefore attract more participants in future data collection efforts.
+After these contour lines are collected and refined, the data can be stylized and the map animated to produce a wave-like effect northward across North America. This animation can be done for each year individually, for all years collectively, or by individual months (see [John Nelson's iceberg map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/iceberg-map-part-2-animation/) for an example). Allow the user to choose the parameters by providing these options. 
+
+This modern, unique way of visualizing the data is designed to enhance the exposure of the data collecting sources and therefore attract more attention and participants in future data collection efforts. In the process, it also may reveal some interesting patterns or anomalies regarding ruby-throated hummingbird northward migrations.
 
 **The Data**
 
