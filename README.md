@@ -56,6 +56,8 @@ I want to design a map that shows the yearly migration patterns of ruby-throated
 
 description goes here
 
+![hummingbird contours](/images/hbird-contours.png "Hummingbird Contours Map")
+
 **The Data**
 
 data goes here
