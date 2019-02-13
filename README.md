@@ -17,24 +17,24 @@ See the data directory for sample data from NOAA's International Best Track Arch
 
 Data from the National Hurricane Center:
 
-Best Track Data ---> https://www.nhc.noaa.gov/data/#hurdat
-Costliest Storms ---> https://www.nhc.noaa.gov/dcmi.shtml
+[Best Track Data](https://www.nhc.noaa.gov/data/#hurdat)
+[Costliest Storms](https://www.nhc.noaa.gov/dcmi.shtml)
 
 Data from NOAA:
 
-Historical Hurricane Tracks ---> https://coast.noaa.gov/digitalcoast/tools/hurricanes.html
-International Best Track Archive for Climate Stewardship ---> https://www.ncdc.noaa.gov/ibtracs/index.php?name=ibtracs-data
+[Historical Hurricane Tracks](https://coast.noaa.gov/digitalcoast/tools/hurricanes.html)
+[International Best Track Archive for Climate Stewardship](https://www.ncdc.noaa.gov/ibtracs/index.php?name=ibtracs-data)
 
 Data from Data.gov:
 
-Worldwide historical hurricane tracks from 1848 through previous hurricane season ---> https://catalog.data.gov/dataset/worldwide-historical-hurricane-tracks-from-1848-through-the-previous-hurricane-season
+[Worldwide historical hurricane tracks from 1848 through previous hurricane season](https://catalog.data.gov/dataset/worldwide-historical-hurricane-tracks-from-1848-through-the-previous-hurricane-season)
 
 Relevant resources:
 
-Hurricane shapes and sizes ---> https://www.popsci.com/hurricane-shape-size
-Spatial patterns on satellite images ---> http://www.aag.org/galleries/education-files/1_patterns.pdf
-Hurricane Isaac Mapped ---> https://www.gislounge.com/hurricane-isaac-mapped/
-John Nelson ---> http://uxblog.idvsolutions.com/2012/08/hurricanes-since-1851.html
+[Hurricane shapes and sizes](https://www.popsci.com/hurricane-shape-size)
+[Spatial patterns on satellite images](http://www.aag.org/galleries/education-files/1_patterns.pdf)
+[Hurricane Isaac Mapped](https://www.gislounge.com/hurricane-isaac-mapped/)
+[John Nelson](http://uxblog.idvsolutions.com/2012/08/hurricanes-since-1851.html)
 
 ---
 
