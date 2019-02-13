@@ -93,7 +93,9 @@ In addition to game options, users also could select a difficulty rating. This w
 
 At the end of the game, users would be given a score based on how accurate each feature placed is to its actual location. This score can be calculated using the difference, in miles, between the centroids of the user-placed features and the centroids of the correct feature locations. The post-game report also could highlight a user's best and worst placement.
 
-Users would also be given a percentile at the end of each game to show where they rank among all those who have played the same game to date. Finally, users would be given the option to share their score with friends and family through their social media applications.
+Users would also be given a percentile at the end of each game to show where they rank among all those who have played the same game to date. 
+
+Finally, users would be given the option to share their score with friends and family through their social media applications.
 
 **The Data**
 
