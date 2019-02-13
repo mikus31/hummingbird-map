@@ -89,11 +89,11 @@ The game would present users with a basemap of the United States of America and 
 
 For the categorized option, users could choose from a number of different thematic games. These categories could include a National Parks game or a major rivers of America game, for example.
 
-In addition to game options, users also could be allowed to select a difficulty rating. This would allow the game to be advertised to all ages, and therefore extend its audience.
+In addition to game options, users also could select a difficulty rating. This would allow the game to be advertised to all ages, and therefore extend its audience.
 
-At the end of the game, users would be given a score based on how accurate each feature placed is to its actual location. This score can be calculated using the difference, in miles, between the centroids of the user-placed features and the centroids of the correct feature locations.
+At the end of the game, users would be given a score based on how accurate each feature placed is to its actual location. This score can be calculated using the difference, in miles, between the centroids of the user-placed features and the centroids of the correct feature locations. The post-game report also could highlight a user's best and worst placement.
 
-Users would also be given a percentile at the end of each game to show where they rank among all those who have played the same game to date.
+Users would also be given a percentile at the end of each game to show where they rank among all those who have played the same game to date. Finally, users would be given the option to share their score with friends and family through their social media applications.
 
 **The Data**
 
