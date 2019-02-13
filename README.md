@@ -54,9 +54,11 @@ The idea is to design a map that shows the yearly migration patterns of ruby-thr
 
 **Draft Description**
 
-description goes here
+The map will connect points of equal dates, or dates within ranges, to create hummingbird migration countour lines. See the roughly-sketched graphic below:
 
 ![hummingbird contours](/images/hbird-contours.png "Hummingbird Contours Map")
+
+After these contour lines are collected and refined, the data can be stylized and the map animated to produce a wave-like effect northward across North America. This animation can be done for each year individually, for all years collectively, or by individual months (similar in nature to [John Nelson's iceberg map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/iceberg-map-part-2-animation/). This way of visualizing the data would, potentially, enhance the exposure of the sources and therefore attract more participants in future data collection efforts.
 
 **The Data**
 
