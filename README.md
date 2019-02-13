@@ -62,11 +62,11 @@ description goes here
 
 Data from Hummingbirds.net:
 
-  * [Hummingbird Report Map](http://www.hummingbirds.net/map.html)
+  * [Ruby-throated Hummingbird First-bird Reports](http://www.hummingbirds.net/map.html)
   
 Data from Journey North:
 
-  * [Ruby-Throated Hummingbirds First Sighting Map](https://maps.journeynorth.org/map/?map=hummingbird-ruby-throated-first&year=2019)
+  * [Hummingbird, Ruby-throated (FIRST)](https://maps.journeynorth.org/map/?map=hummingbird-ruby-throated-first&year=2019)
 
 ---
 
