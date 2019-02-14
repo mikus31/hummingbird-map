@@ -73,6 +73,7 @@ Data from Journey North:
   
 **Inspirations & Ideas**
 
+  * Dataviz Idea: Plot the sightings by date by state. Use a scatterplot? Lineplot?  
   * [Iceberg Map: Part 2, Animation](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/iceberg-map-part-2-animation/)
 
 ---
