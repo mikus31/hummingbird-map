@@ -36,3 +36,7 @@ Data from Journey North:
   * Within this project, create a web map that allows users to collect date of departure data. The above resources do a good job of capturing first sighting data already, but not when the birds leave an area.
   * Dataviz Idea: Plot the sightings by date by state. Use a scatterplot? Lineplot?  
   * [Iceberg Map: Part 2, Animation](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/iceberg-map-part-2-animation/)
+  
+**Tasks**
+
+  * Build a web scraper to download the hummingbird sighting data from Journey North for the years 2011--2018
