@@ -39,3 +39,6 @@ Data from Journey North:
 
   * Rename repo 
   * Build a web scraper to download the hummingbird sighting data from Journey North for the years 2011--2018
+  * Create wireframe for web map
+  * Create wireframe(s) for dataviz idea(s)
+  * Create web form for capturing last sighting date and location
