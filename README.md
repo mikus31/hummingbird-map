@@ -3,10 +3,6 @@ Michael McNeil's final mapping project for the New Maps Plus Master's Degree pro
 
 ## INTERACTIVE RUBY-THROATED HUMMINGBIRD MAP
 
-Potential repo name for this project: hummingbird-map 
-
-**Focused Topic**
-
 The idea is to design a map that shows the yearly migration patterns of ruby-throated hummingbirds in North America in an effort to find out how the pattern varies from year-to-year in order to help the map user or audience discern if variables (man-made, environmental, etc.) are affecting yearly migrations.
 
 **Draft Description**
