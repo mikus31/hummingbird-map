@@ -1,9 +1,7 @@
 # New Maps Plus Master's Degree Project
 Michael McNeil's final mapping project for the New Maps Plus Master's Degree program at the University of Kentucky.
 
-## Mapping Project Topic Idea
-
-**INTERACTIVE RUBY-THROATED HUMMINGBIRD MAP**
+## INTERACTIVE RUBY-THROATED HUMMINGBIRD MAP
 
 Potential repo name for this project: hummingbird-map 
 
@@ -39,4 +37,5 @@ Data from Journey North:
   
 **Tasks**
 
+  * Rename repo 
   * Build a web scraper to download the hummingbird sighting data from Journey North for the years 2011--2018
