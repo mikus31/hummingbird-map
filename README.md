@@ -1,5 +1,5 @@
-# New Maps Plus Master's Degree Project
-Michael McNeil's final mapping project for the New Maps Plus Master's Degree program at the University of Kentucky.
+# Ruby-Throated Hummingbird Migration Map
+Examining open-sourced hummingbird sighting data in North America
 
 ## INTERACTIVE RUBY-THROATED HUMMINGBIRD MAP
 
